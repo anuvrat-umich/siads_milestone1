@@ -1,0 +1,6 @@
+Census income levels: ACSST5Y2022-S1901-Data.csv
+Health Outcomes: PLACES__Local_Data_for_Better_Health__ZCTA_Data_2023_release_20240127.csv
+Social Determinants of Health: SDOH_Measures_for_ZCTA__ACS_2017-2021_20240121.csv
+Political affiliation by state: States Political Affiliations Jan-2024.xlsx
+Public health spending by state: Per person state public health funding.csv
+American Community Survey: ACSDP5Y2020.DP05-Data.csv
