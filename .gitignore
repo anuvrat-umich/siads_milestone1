@@ -109,3 +109,4 @@ venv.bak/
 
 # Zip files
 *.zip
+src/data/df_health_outcomes_edited.pkl
