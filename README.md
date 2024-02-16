@@ -1,9 +1,11 @@
 **A SOCIO-ECONOMIC STUDY OF DETERMINANTS OF PUBLIC HEALTH**
 
 Milestone 1 repo for SIADS Q1-2024 student group of Anuvrat, Mike and Alex (09-anuvrat-mselesko-alehan-2024winter)
-Project proposal available on Google drive at: https://docs.google.com/document/d/1ZP12Ck72LOGa7Z3ccDD5uAKn3ixGEmk5b7pTNjo7L_0/edit
-Project report available on Google drive at: https://docs.google.com/presentation/d/181AvXBw_9uJlnWSkAYV06M7Fkq-lpnf-/edit#slide=id.g2b6ba6ad4c9_0_16
-Tableau dashboard available at: https://public.tableau.com/app/profile/anuvrat.chaturvedi/viz/Milestone1-09-anuvrat-mselesko-alehan-2024winter/Home?publish=yes
+<ul>
+  <li>Project proposal available on Google drive at: https://docs.google.com/document/d/1ZP12Ck72LOGa7Z3ccDD5uAKn3ixGEmk5b7pTNjo7L_0/edit</li>
+  <li>Project report available on Google drive at: https://docs.google.com/presentation/d/181AvXBw_9uJlnWSkAYV06M7Fkq-lpnf-/edit#slide=id.g2b6ba6ad4c9_0_16</li>
+  <li>Tableau dashboard available at: https://public.tableau.com/app/profile/anuvrat.chaturvedi/viz/Milestone1-09-anuvrat-mselesko-alehan-2024winter/Home?publish=yes</li>
+</ul>
 
 The repo contains a single folder src that has Jupyter notebooks to be executed in this order and input data folder named 'data':
 
